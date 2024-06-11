@@ -1,0 +1,128 @@
+1. Define software engineering
+
+The software engineering is the application of the principles, techniques for the design, development, testing and maintenance of software system. It is a software development approach that is systematic and comes with proper structure, ensuring the final product is as per the requirement, providing reliability, efficiency, and maintainability.
+
+There are many things Software Engineering deviates from instead of following the traditional way of Programming. The order of magnitude difference is that traditional programming concentrates on coding a specific problem or some solution, software engineering look as if a step later: it covers the defect from requirements gathering to regularly maintenance to which solutions fall within those edges. Software engineering also focuses on the use of standard methodologies, tools, and techniques to develop the software in a consistent and repeatable manner.
+
+2. SDLC aka Software Development Life Cycle:
+
+The software development life-cycle (SDLC), has many phases but if broken down generally looks like this :
+
+Requirement Analysis: Determine the requirements of the new system, as well as all the functionalities of the latest version of the software.
+
+Requirement Analysis: Analyze all the requirements collected during the first phase and define the scope of the project.
+
+Design - Software architecture, components, and interfaces;
+
+Implementation: Coding components in actual program using programming languages and tools.
+
+Quality assurance: The software is tested to make sure it is capable of doing all the things it needs to do free from defect
+
+Deploy: Deploy the software to production or staging environments.
+
+Support: Provide support by maintenance of the software by addressing bugs, defects, and updating the system.
+
+Both the phases are important for the software project.
+
+3. Agile vs. Waterfall Models:
+
+What is the Difference between Agile and Waterfall - Agile and Waterfall are the two methods used by the developers for developing a software but manner in case of doing so are different, Below you will go through the introductory article which will help you to understand the primary difference between the two of these Software Development Methodologies and will get a theoretical overview of these two Software Development Processes.
+
+Agile:
+
+Focusses on flexibility and adaptability
+
+Splits up work into small increments
+
+Prioritizes customer feedback
+
+Project programming helps in working as a team
+
+Fast Delivery & Continuous Improvement
+
+Waterfall:
+
+Follows a linear approach
+
+Separates work into four distinct phases
+
+Before the development even begins, detailed planning is a must.
+
+Highly Meets Certain Unique Needs
+
+Less flexible and adaptable
+
+Waterfall: Waterfall may be preferable if the requirements are well defined & changes are minimal While in agile - it is chosen for uncertain or changing requirement phase.
+
+5. Software Design Principles:
+
+If you have taken any of software design classes, you might be familiar with the term Modularity. It helps you to break down a large and complex system into isolated and independent modules that can be developed or maintained separately. This provides developers with the ability to change or replace individual modules without affecting the entire system keeping maintainability and scalability in mind.
+
+6. Software Engineering Testing:
+
+In software testing, the quality of the product is validated by verifying it on functional, performance, security and usability basis. There are 4 levels of testing:
+
+Unit Testing: Test individual components or modules.
+
+These are integration tests, they test the interaction between components
+
+System Testing : To test the whole software system.
+
+Acceptance Testing - Test with customer requirements bug fix test
+
+Testing is very important for software development lifecycle as it: - helps in finding defects at early stages - low- cost of detection - ensures customer satisfaction - shelved into an efficient product - Saves cost and time of re-work
+
+7. Version Control Systems:
+
+A Version control system(vcs) is a tool that helps manage different version of code, so basically it allows multiple developers to work together on projects. What Features do VCSs Offer?
+
+Version History: In case code is resetaimed so that what changes have been done and from then code can be audited
+Collaboration: Allows multiple developers to work on the same project
+
+Branching: Creates separate versions of code for different purposes
+
+8. Software Project Management:
+
+A software project manager is a person who undertakes the responsibility of the planning, execution, and closing of any project.This PMP trained professional is an expert at using a series of principles to forecast potential risks and consequences before the project even begins. Key responsibilities include:
+
+Plan the project - setting scope, timeline, and budget
+
+Resource Allocation- Who will do what?
+
+Risk management : A way to identify possible risks and then overcoming it.
+
+Software project managers struggle with controlling team dynamics, task prioritization and timely product delivery.
+
+9. Software Maintenance:
+
+Well, software maintenance is the act of changing a software product after it has been delivered and maintained, in order to correct faults, to improve performance or other attributes or to adapt the product to a changed environment. Different activities are associated with maintenance like:
+
+Corrective Maintenance: Corrects defects or bugs
+
+Adaptive Maintenance - changes that are necessary in the code to adapt it to the changing requirements
+
+Perfective Maintenance: This changes and added the capacity to perform or execute any kind of task.
+
+10. Ethical Considerations in Software Engineering:
+
+Software engineers must adhere to ethical standards in developing software systems. Some ethical considerations include:
+
+Privacy: Protection of user data and privacy
+
+Security: Ensure software systems are secure and unauthorized
+
+Justice: Ensure the quality and integrity of the software
+
+Software engineers must consider these ethical considerations when designing software systems to ensure that they meet high standards of quality and integrity.
+
+Please note that this work provides a general overview of concepts in software engineering. Real-world examples or case studies may vary depending on specific situations or industries.
+
+References:
+
+IEEE Computer Society (2019). IEEE standards for software engineering terminology.
+
+Grady Booch (2017). Software Engineering at Harvard University.
+
+Agile Notes (2001). Manifesto for Agile Software Development.
+
+Translation Management System (n.d.). Git Reference Manual
